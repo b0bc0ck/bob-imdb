@@ -1,0 +1,5 @@
+github.com/StalkR/httpcache v1.0.0/go.mod h1:yvbaYwH6w1USHPqgspMSwumbLwWE+B7jIZgfLYkTw1M=
+github.com/StalkR/imdb v1.0.7 h1:T9ra3IObhWoNB2I2CNT6EFe8sTQH56adKJdEQi1q0Ig=
+github.com/StalkR/imdb v1.0.7/go.mod h1:nxQmP4/nGtTVICl2+UmwhCnosVwVClmksdyptjE5Lj8=
+github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
+github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
